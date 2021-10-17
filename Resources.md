@@ -1,13 +1,14 @@
 
 # General Installs
 * Powershell Core
-* Oh my Posh with winget
-* font caskaydia cove nf
-
+* Oh My Posh with winget
+* Font Caskaydia Cove NF
 
 # Fonts
-## Caskaydia Cove NF(for oh-my-posh)- https://www.nerdfonts.com/font-downloads
-  Install font into C:\Windows\Fonts
+## Caskaydia Cove NF(for Oh-My-Posh)
+
+  * https://www.nerdfonts.com/font-downloads
+  * Install font into C:\Windows\Fonts
 
 # Applications
 
@@ -16,28 +17,30 @@
 ### Settings 
 
   * Configure Powershell for Caskaydia Cove NF font
-  * 
+
 ### Powershell Profile
 
-  https://gist.github.com/gearhead2k/833bf44f7355098a4e3cbf786d1aada1
+  * Powershell 5.1 - https://gist.github.com/gearhead2k/98f6d879fec9f7cd9364afee7ebfc25b
+  * PowerShell Core - https://gist.github.com/gearhead2k/bddb4ef7501f657bcdbe0796e417234f
   
 ### Oh My Posh
+  
+  Install Oh My Posh from the instructions in the documentation
   * https://ohmyposh.dev/docs/
-
-Install Oh My Posh from the instructions in the documentation. Make sure you configure the $PROFILE file in Powershell to 
+  * See PowerShell Profile to start on new windows.
+  * Custom Theme - https://gist.github.com/gearhead2k/833bf44f7355098a4e3cbf786d1aada1
 
 ### Terminal-Icons
-  https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons
+  * https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons
   
-  Use Powershell Gallery
-  https://www.powershellgallery.com/packages/Terminal-Icons
+  * Use Powershell Gallery
+    * https://www.powershellgallery.com/packages/Terminal-Icons
 
 ### PSReadLine Update
 
 At minimum use version 2.2.0-beta.
 
-https://www.powershellgallery.com/packages/PSReadLine/
-
+* PowerShell Gallery - https://www.powershellgallery.com/packages/PSReadLine/
 
 
 ## VS Code
