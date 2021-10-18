@@ -25,16 +25,19 @@
   
 ### Oh My Posh
   
-  Install Oh My Posh from the instructions in the documentation
+  Install Oh My Posh from the instructions in the documentation.Make sure you install both the exe and the PowerShell module for management.
   * https://ohmyposh.dev/docs/
   * See PowerShell Profile to start on new windows.
   * Custom Theme - https://gist.github.com/gearhead2k/833bf44f7355098a4e3cbf786d1aada1
-
+  
 ### Terminal-Icons
   * https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons
   
   * Use Powershell Gallery
     * https://www.powershellgallery.com/packages/Terminal-Icons
+
+### Posh-Git
+  * https://www.powershellgallery.com/packages/posh-git
 
 ### PSReadLine Update
 
