@@ -1,4 +1,3 @@
-
 # General Installs
 * Powershell Core
 * Oh My Posh with winget
@@ -45,8 +44,11 @@ At minimum use version 2.2.0-beta.
 
 * PowerShell Gallery - https://www.powershellgallery.com/packages/PSReadLine/
 
-
 ## VS Code
 
 ### Settings
-* Configure to include Caskaydia Cove NF font so that the terminal will function.
+  * Configure to include Caskaydia Cove NF font so that the terminal will function.
+
+### Extensions
+  * C#
+  * PowerShell
